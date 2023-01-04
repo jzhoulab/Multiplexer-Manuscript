@@ -1,4 +1,3 @@
-import argparse
 import math
 import pyfasta
 import torch
@@ -6,7 +5,6 @@ from torch import nn
 from torch.utils.data import Dataset, DataLoader
 import numpy as np
 import pandas as pd
-import h5py
 import random
 import seaborn
 import matplotlib.pyplot as plt

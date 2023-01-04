@@ -1,4 +1,3 @@
-import argparse
 import math
 import pyfasta
 import torch
@@ -7,7 +6,6 @@ from torch.utils.data import Dataset, DataLoader
 import numpy as np
 import pandas as pd
 import time
-import h5py
 
 
 np.random.seed(10)

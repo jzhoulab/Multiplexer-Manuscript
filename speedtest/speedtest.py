@@ -3,7 +3,6 @@ import pyfasta
 import torch
 from torch import nn
 import numpy as np
-import h5py
 import seaborn
 import time
 
