@@ -1,0 +1,14 @@
+/comparison is a directory that contains the code for the correlation experiments that correspond with Figure C. and Supplementary Figure 1. 
+
+/train contains the training code for 3 different model Multiplexer architectures. The training code for the 4th architecture is located in the BMtraining directory.
+
+/inputs contains code to generate inputs for the correlation experiments. This is so a standardized set of sequences are used.
+
+/get_predictions contains the code to make predictions with the trained models. These predictions are stored in /predictions.
+
+/calcCorrelation contains the code to calculate the correlation comparison among architecture.
+
+/full_vs_avg contains the code to process individual mutation effects prediction and per-position averaged mutation effect prediction comparisons.
+
+
+

@@ -1,0 +1,6 @@
+/format_data - zeros out reference predictions make by the Multiplexer in the individual mutation effects prediction and per-position averaged mutation effect prediction analysis. This makes data processing easier in later steps of the comparison. This data is saved in /zerod_data.
+
+/avg_corr - the per-position averaged mutation effect prediction comparison.
+
+/Indi_corr - individual mutation effects prediction comparison.
+

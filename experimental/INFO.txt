@@ -1,0 +1,4 @@
+/AtacSeq - contains the code to run Beluga vs Mutliplexer comparison on the Atac-seq dataset. The jupyter notebook contains instructions for producing the Atac-seq plot in Figure d.
+
+
+/DNase - contains the code to run Beluga vs Mutliplexer comparison on the DNase-seq dataset.The jupyter notebook contains instructions for producing the DNase-seq plot in Figure d.

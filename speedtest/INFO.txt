@@ -1,0 +1,1 @@
+speedtest.py contains the code to test the speed of the Muliplexer models and the Beluga Model. The plot .ipynb uses the results to create the plot found in figure b.  
