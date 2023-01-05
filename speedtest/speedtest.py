@@ -7,7 +7,7 @@ import seaborn
 import time
 
 
-genome = pyfasta.Fasta('../resources/hg19.fa')
+genome = pyfasta.Fasta('../data/hg19.fa')
 
 class LambdaBase(nn.Sequential):
     def __init__(self, fn, *args):
@@ -60,7 +60,7 @@ class Beluga(nn.Module):
         return self.model(x)
 
 model = Beluga()
-model.load_state_dict(torch.load('../resources/deepsea.beluga.pth'))
+model.load_state_dict(torch.load('../data/deepsea.beluga.pth'))
 model.eval()
 
  
