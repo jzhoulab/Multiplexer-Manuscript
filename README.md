@@ -4,7 +4,7 @@ This Repo contains the code to reproduce the results and figures found in Beluga
 
 The ./Supp directory contains a .ipynb notebook that reproduces the Beluga and BelugaMutliplexer predictions found in the supplementary figures.
 
-The './comparison' directory contains the code to produce Figure c. and Supplementary Figure 2. A INFO.txt file is provided within the directory to explain how the figures and values were deteremined.
+The ./comparison directory contains the code to produce Figure c. and Supplementary Figure 2. A INFO.txt file is provided within the directory to explain how the figures and values were deteremined.
 
 The ./experimental directory contains the code to reproduce Figure d. which comparisons Beluga and BelugaMultiplexer prediction performance on Ataq-seq and DNase-seq datasets.
 
