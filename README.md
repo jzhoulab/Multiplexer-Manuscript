@@ -1,6 +1,6 @@
 # Multiplexer-Manuscript
 
-This Repo contains the code to reproduce the results and figures found in BelugaMultiplexer paper. 
+This Repo contains the code to reproduce the results and figures found in the BelugaMultiplexer paper. 
 
 The ./Supp directory contains a .ipynb notebook that reproduces the Beluga and BelugaMutliplexer predictions found in the supplementary figures.
 
